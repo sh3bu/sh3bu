@@ -2,7 +2,7 @@
 
 * **I am a Information security enthusiast with strong interest in offensive security and penetration testing**
 
-* **I spend my free time solving Tryhackme, Hackthebox & Web-sec-academy**
+* **I spend my free time solving labs @ Tryhackme, Hackthebox & Web-sec-academy**
 
 ### Take a look at my blog website - [sh3bu.github.io](https://sh3bu.github.io)
 
