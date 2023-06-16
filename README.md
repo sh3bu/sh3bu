@@ -1,24 +1,46 @@
-## Hi ! I'am Shebu 👋🏻
+<h1 align="center">Hey There 👋🏻, I'm Shebu - (sh3bu)</h1>
+<h3 align="center"> Security Geek : Building and Breaking for Knowledge </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sh3bu" alt="sh3bu" /> </p>
 
-* **I am a Information security enthusiast with strong interest in offensive security and penetration testing**
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-* **I spend my free time solving labs @ Tryhackme, Hackthebox & Web-sec-academy**
+# Whoami
 
-### Take a look at my blog website - [sh3bu.github.io](https://sh3bu.github.io)
+- M.Tech Cybersecurity student at **TIFAC CORE in Cyber Security - Amrita Vishwa  Vidhyapeetham**.
+- Security Intern at Philips.
+- I do writeups of CTF challenges on [sh3bu.github.io](https://sh3bu.github.io).
+- Currently preparing for **Comptia Pentest+** .
+
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
+## Profiles 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/shebu.png" alt="TryHackMe"> <img src="http://www.hackthebox.eu/badge/image/433595" alt="Hack The Box">
+
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
+
+### GitHub Analytics
+
+![shebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh3bu&show_icons=true&hide=contribs&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh3bu&layout=compact)
 
 
-### ⚙️ &nbsp;GitHub Analytics
+![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-<p align="center">
-<a href="https://github.com/sh3bu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sh3bu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### Connect with Me 
 
-<div align="center">
+[<img align="left" alt="sh3bu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website] 
+[<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="sh3bu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="_sh3bu._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shebu/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_sh3bu)
+<!-- Reference Links -->
+
+[website]: https://sh3bu.github.io
+[twitter]: https://twitter.com/_sh3bu
+[linkedin]: https://linkedin.com/in/shebu
+[instagram]: https://www.instagram.com/_shebu._/
+
   
