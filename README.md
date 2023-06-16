@@ -31,14 +31,12 @@
 
 ### Connect with Me 
 
-[<img align="left" alt="sh3bu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website] 
 [<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="sh3bu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt="_sh3bu._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <!-- Reference Links -->
 
-[website]: https://sh3bu.github.io
 [twitter]: https://twitter.com/_sh3bu
 [linkedin]: https://linkedin.com/in/shebu
 [instagram]: https://www.instagram.com/_shebu._/
