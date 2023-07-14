@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-# Whoami
+<div align="center">
+  
+## Whoami
 
 - M.Tech Cybersecurity student at **TIFAC CORE in Cyber Security - Amrita Vishwa  Vidhyapeetham**.
 - Security Intern at Philips.
@@ -19,7 +21,7 @@
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
-### GitHub Analytics
+## 🧮 Statistics
 
 ![shebu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh3bu&show_icons=true&hide=contribs&count_private=true)
 
@@ -29,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
 
-### Connect with Me 
+## 📫 Connect with Me 
 
 [<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="sh3bu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
