@@ -1,5 +1,5 @@
 <h1 align="center">Hey There 👋🏻, I'm Shebu - (sh3bu)</h1>
-<h3 align="center"> Security Geek : Building and Breaking for Knowledge </h3>
+<h3 align="center"> A n00b trying to upskill everyday </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sh3bu" alt="sh3bu" /> </p>
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
@@ -35,12 +35,10 @@
 
 [<img align="left" alt="_sh3bu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="sh3bu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="_sh3bu._ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 <!-- Reference Links -->
 
 [twitter]: https://twitter.com/_sh3bu
 [linkedin]: https://linkedin.com/in/shebu
-[instagram]: https://www.instagram.com/_shebu._/
 
   
