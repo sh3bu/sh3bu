@@ -11,7 +11,8 @@
 - Product Security Engineer at Philips.
 - M.Tech Cybersecurity at **TIFAC CORE in Cyber Security - Amrita Vishwa  Vidhyapeetham**.
 - I do writeups of CTF challenges on [sh3bu.github.io](https://sh3bu.github.io).
-- CVE : **CVE-2024-41662**
+- CVE : **CVE-2024-41662, 
+CVE-2024-7869**
 
 ![image](https://user-images.githubusercontent.com/59029171/162222621-7e7fbad3-4f33-4964-94a8-6f6189e97142.png)
 
